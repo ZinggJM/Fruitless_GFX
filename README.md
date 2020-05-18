@@ -32,6 +32,7 @@ Highly unlikely to merge any changes for additional or incompatible font formats
 
 Please don't reformat code for the sake of reformatting code. The resulting large "visual diff" makes it impossible to untangle actual bug fixes from merely rearranged lines.
 
-## Fruitless_GFX Library: extracted part of Adafruit_GFX Library, as of 18.05.2020, by J-M Zingg
+## Fruitless_GFX Library: extracted part of Adafruit_GFX Library
+## as of 18.05.2020, by J-M Zingg
 
 currently under construction
